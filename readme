@@ -1,0 +1,22 @@
+
+
+What is this
+-------------
+
+example answers for problems in 'the fun of programming'.
+answers are written with StandardML'97 (SML/NJ),
+but I welcome answers with other languages. Let's read through this book!!
+
+
+How to use
+-------------
+
+I recommend you to run this program by SML/NJ. (* I use SML/NJ *)
+But I don't use any runtime specific functions.
+
+ $ sml
+ - use "lazylist.sml";
+ - use "fop.sml";
+ (* programs have loaded *)
+
+
